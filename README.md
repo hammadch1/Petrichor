@@ -10,4 +10,4 @@ Please check and join us for a social cause!
 <a target='_blank'>
   <img class='header-img' width=180px height=350px src='https://raw.githubusercontent.com/hammadch1/Petrichor/master/Login.jpeg' />
   <img class='header-img' width=180px height=350px src='https://raw.githubusercontent.com/hammadch1/Petrichor/master/MainPage.jpeg' />
-  <img class='header-img' width=180px height=350px src='https://raw.githubusercontent.com/hammadch1/Petrichor/master/Animations.jpeg' />     <img class='header-img' width=180px height=350px src='https://raw.githubusercontent.com/hammadch1/Petrichor/master/UserProfile.jpeg' /></a>
+  <img class='header-img' width=180px height=350px src='https://raw.githubusercontent.com/hammadch1/Petrichor/master/Animation.jpeg' />     <img class='header-img' width=180px height=350px src='https://raw.githubusercontent.com/hammadch1/Petrichor/master/UserProfile.jpeg' /></a>
